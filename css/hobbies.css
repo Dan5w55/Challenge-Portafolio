@@ -1,4 +1,4 @@
 .hobbies{
-    background: #D7FFCA;
+    background: var(--color-blanco);
     padding: 3rem 5rem 3rem 5rem;
 }

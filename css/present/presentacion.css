@@ -3,9 +3,9 @@
     align-items: center;
     justify-content: space-between;
     padding: 1rem;
-    background-color: #ccffbc;
+    
     backdrop-filter: blur(10px);
-    box-shadow: 5px -3px 6px 5px rgba(0, 0, 0, 0.119);
+    
     border-radius: 8rem;
 }
 
