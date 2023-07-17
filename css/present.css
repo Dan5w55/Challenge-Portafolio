@@ -1,6 +1,6 @@
 .present{
     display: flex;
     padding: 10% 10% 5% 10%;
-    background: #D7FFCA;
+    background: var( --color-blanco);
 }
 

@@ -1,5 +1,5 @@
 .sobremi{
-    background: #D7FFCA;
+    background: var(--color-azulClaro);
     padding: 3rem 30rem 3rem 10rem;
     align-items: center;
 }
