@@ -1,0 +1,35 @@
+.experiencia__boton--demo{
+    padding: .8rem .5rem .8rem .5rem;
+    background: none;
+    border-color: #00000030;
+    border-width: 2px;
+    transition: all .10s;
+    font-family: Raleway;
+    font-weight: 400;
+}
+
+.experiencia__boton--repositorio{
+    padding: .8rem .7rem .8rem .7rem;
+    background: #00000058;
+    border-width: 2px;
+    border-color: #00000000;
+    transition: all .10s;
+    color: #ffffff;
+    font-family: Raleway;
+    font-weight: 400;
+}
+
+.experiencia__boton--demo:hover{
+    cursor: pointer;
+    background: #00000058;
+    border-color: #00000000;
+    color: #ffffff;
+}
+
+.experiencia__boton--repositorio:hover{
+    cursor: pointer;
+    background: none;
+    border-width: 2px;
+    border-color: #00000030;
+    color: black;
+}

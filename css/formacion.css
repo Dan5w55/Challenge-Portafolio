@@ -1,0 +1,8 @@
+.formacion{
+    display: flex;
+    padding: 2rem;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+    background: #D7FFCA;
+}

@@ -1,0 +1,12 @@
+.habilidades__imagenes{
+    list-style: none;
+}
+
+.imagen__item{
+   width: 20%;
+   transition: all .10s;
+}
+
+.imagen__item:hover{
+    width: 25%;
+}

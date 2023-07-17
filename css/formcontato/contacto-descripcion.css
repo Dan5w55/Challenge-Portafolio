@@ -1,0 +1,6 @@
+.contacto__descripcion{
+    padding-bottom: .8rem;
+    font-family: Raleway;
+    font-weight: 400;
+    color: var(--color-grisLetras);
+}

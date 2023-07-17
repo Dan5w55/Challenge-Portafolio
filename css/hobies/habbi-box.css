@@ -1,0 +1,7 @@
+.habbi__box{
+    text-align: center;
+    align-items: center;
+    margin: 2.5rem;
+    background: linear-gradient(180deg , rgba(253, 253, 253, 0.707) , rgba(253, 253, 253, 0.394));
+    border-radius: 0rem 10rem 0rem 10rem;
+}

@@ -1,0 +1,6 @@
+.formcontato__contacto{
+    display: flex;
+    padding: 2rem 3rem 2rem 3rem;
+    background: rgba(0, 0, 0, 0.198);
+    border-radius: 10px;
+}

@@ -1,0 +1,10 @@
+.experiencia__box{
+    padding: 3rem 2rem 3rem 2rem;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(180deg , rgba(0, 0, 0, 0.235) , rgba(0, 0, 0, 0.104));
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+}

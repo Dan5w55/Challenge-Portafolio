@@ -1,0 +1,6 @@
+.contacto__correo{
+    padding-bottom: .5rem;
+    font-family: Raleway;
+    font-weight: 400;
+    color: var(--color-grisLetras);
+}

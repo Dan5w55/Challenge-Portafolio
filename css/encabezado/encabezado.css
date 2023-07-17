@@ -1,0 +1,26 @@
+.encabezado{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: .5rem;
+    background: linear-gradient(120deg, rgba(255, 255, 255, 0.318), rgba(255, 255, 255, 0.186));
+    backdrop-filter: blur(20px);
+    box-shadow: 0 5px 6px -2px rgba(0, 0, 0, 0.37);
+    position: fixed;
+    z-index: 50;
+    border-radius: 1rem;
+    top: 0;
+    transition: all 0.9s;
+}
+
+.encabezado__div{
+    display: flex;
+    align-items: center;
+    padding-top: 0.3rem;
+}
+
+.left__imagen{
+    width: 3rem;
+    margin-right: 0.1rem;
+}

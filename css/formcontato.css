@@ -1,0 +1,6 @@
+.formcontato{
+    display: grid;
+    place-items: center;
+    padding: 2rem 10rem 2rem 10rem;
+    background: #D7FFCA;
+}

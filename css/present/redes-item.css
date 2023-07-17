@@ -1,0 +1,14 @@
+.redes__item{
+    list-style: none;
+}
+
+.redes__img{
+    width: 20%;
+    transition: all .15s;
+}
+
+.redes__img:hover{
+    width: 25%;
+    border-radius: 100%;
+    box-shadow: 0 5px 6px 2px rgba(0, 0, 0, 0.37);
+}
