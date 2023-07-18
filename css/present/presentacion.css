@@ -3,10 +3,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 1rem;
-    
-    backdrop-filter: blur(10px);
-    
-    border-radius: 8rem;
+    flex-direction: row-reverse;
 }
 
 .persent__imagen{
