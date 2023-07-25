@@ -4,3 +4,8 @@
     background: var( --color-blanco);
 }
 
+@media screen and (max-width: 768px){
+    .present{
+        padding-top: 20%;
+    }
+}

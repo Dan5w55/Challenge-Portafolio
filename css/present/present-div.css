@@ -1,3 +1,10 @@
 .present__div{
     padding-left: 1%;
 }
+
+@media screen and (max-width: 768px){
+    .present__div{
+        padding-left: 0;
+        text-align: center;
+    }
+}

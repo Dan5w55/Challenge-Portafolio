@@ -4,3 +4,11 @@
     background: rgba(0, 0, 0, 0.198);
     border-radius: 10px;
 }
+
+@media screen and (max-width: 768px){
+    .formcontato__contacto{
+        display: grid;
+        align-items: center;
+        padding: 1rem 1.2rem 1rem 1.2rem;
+    }
+}

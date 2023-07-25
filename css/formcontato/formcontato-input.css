@@ -6,3 +6,11 @@
     margin: .5rem 0 1.5rem 0;
     width: 80%;
 }
+
+@media screen and (max-width: 768px){
+    .formcontato__input, .formcontato__textarea{
+       width: 75%;
+       display: grid;
+       place-items: center;
+    }
+}

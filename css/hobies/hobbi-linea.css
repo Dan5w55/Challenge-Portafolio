@@ -1,4 +1,13 @@
 .hobbi__linea{
     display: flex;
+    align-items: center;
     justify-content: space-between;
+}
+
+@media screen and (max-width: 768px){
+    .hobbi__linea{
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
 }

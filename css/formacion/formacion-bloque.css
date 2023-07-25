@@ -4,3 +4,11 @@
     justify-content: space-around;
     padding-top: 2rem;
 }
+
+@media screen and (max-width: 768px){
+    .formacion__bloque{
+        display: grid;
+        place-items: center;
+        padding-top: 1rem;
+    }
+}

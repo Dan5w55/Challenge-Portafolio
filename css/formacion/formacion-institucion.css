@@ -8,3 +8,13 @@
     padding-right: .5rem;
     padding-bottom: .8rem;
 }
+
+@media screen and (max-width: 768px){
+    .formacion__institucion{
+        display: grid;
+        place-items: center;
+    }
+    .universidad{
+        padding: 0 0 .5rem 0;
+    }
+}

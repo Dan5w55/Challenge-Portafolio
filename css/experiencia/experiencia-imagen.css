@@ -2,3 +2,9 @@
     width: 70%;
     border-radius: 10px;
 }
+
+@media screen and (max-width: 768px){
+    .experiencia__imagen{
+        width: 20rem;
+    }
+}

@@ -4,3 +4,9 @@
     font-weight: 700;
     color: #464646;
 }
+
+@media screen and (max-width: 768px){
+    .div__titulo{
+        font-size: 1.5rem;
+    }
+}

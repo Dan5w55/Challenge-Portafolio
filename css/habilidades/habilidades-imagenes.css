@@ -10,3 +10,9 @@
 .imagen__item:hover{
     width: 25%;
 }
+
+@media screen and (max-width: 768px){
+    .imagen__item{
+        width: 7rem;
+    }
+}

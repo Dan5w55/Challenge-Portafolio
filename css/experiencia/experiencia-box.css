@@ -8,3 +8,12 @@
     border-radius: 20px;
     backdrop-filter: blur(20px);
 }
+
+@media screen and (max-width: 768px){
+    .experiencia__box{
+        padding: 1.5rem 1rem;
+        display: grid;
+        align-items: center;
+        margin: 0;
+    }
+}

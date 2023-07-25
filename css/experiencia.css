@@ -4,3 +4,9 @@
     place-items: center;
     background: var(--color-blanco);
 }
+
+@media screen and (max-width: 768px){
+    .experiencia{
+        padding: 1.5rem 1rem;
+    }
+}

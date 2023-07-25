@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px){
+    .formcontacto__text{
+       align-items: center;
+    }
+
+    .formcontato__form{
+        display: grid;
+        place-items: center;
+    }
+}

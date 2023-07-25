@@ -2,3 +2,9 @@
     font-family: Raleway;
     font-weight: 700;
 }
+
+@media screen and (max-width: 768px){
+    .experiencia__descripcion{
+        font-size: 22px;
+    }
+}

@@ -9,3 +9,16 @@
 .persent__imagen{
     width: 22rem;
 }
+
+@media screen and (max-width: 768px){
+    
+    .presentacion{
+        display: grid;
+        place-items: center;
+    }
+
+    .persent__imagen{
+        width: 15rem;
+        height: 15rem;
+    }
+}

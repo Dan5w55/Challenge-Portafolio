@@ -3,4 +3,10 @@
     justify-content: space-between;
     align-items: center;
     background: var(--color-blanco);
+} 
+
+@media screen and (max-width: 768px){
+    .habilidades{
+        padding: 1.5rem 2rem 1.5rem 2rem;
+    }
 }
