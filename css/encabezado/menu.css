@@ -1,3 +1,13 @@
 .menu{
     padding-top: 0.3rem;
 }
+
+@media screen and (max-width: 768px){
+    .menu{
+        text-indent:-999px;
+        font: 0/0 a;
+        text-shadow: transparent;
+        color: transparent;
+        text-decoration: none;
+    }
+}

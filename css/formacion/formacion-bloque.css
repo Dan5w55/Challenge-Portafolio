@@ -9,6 +9,9 @@
     .formacion__bloque{
         display: grid;
         place-items: center;
+        justify-content: center;
         padding-top: 1rem;
+        width: 20%;
+        height: 20%;
     }
 }
