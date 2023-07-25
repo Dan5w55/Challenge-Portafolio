@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 768px){
     .experiencia__box{
-        padding: 1.5rem 1rem;
+        padding: 1.5rem 1.5rem;
         display: grid;
         align-items: center;
         margin: 0;
